@@ -1,0 +1,2 @@
+/* Uso estricto */
+"use strict";

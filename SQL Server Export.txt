@@ -1,0 +1,3 @@
+id,area,codigo,inicio,fin
+0,area1,codigo1,2020-09-04 14:52:51,2020-09-04 14:55:55
+,
